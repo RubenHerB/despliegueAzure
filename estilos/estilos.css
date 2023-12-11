@@ -65,7 +65,12 @@ html{background: url("../resources/llagar.png") no-repeat center center fixed;
         margin-top: 20px;
         margin-left: 2.5%;
     }
+    
     .redesto{display: flex;}
     .redes div a img{height: auto;width: 45px ;border-radius: 1%;display: block;padding: 3px;}
     .redes div {display: flex;}
     .redes{color: white;font-size: 20px;text-align: center;}
+    .pie div:not(.redes){color: white;}
+
+    .main-productos {padding:2% 5%;color: white;width: 80%;margin:0 auto 0 auto;}
+    .main-productos h1 {color: white;margin:0 auto 0 auto;}
